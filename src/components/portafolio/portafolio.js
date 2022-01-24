@@ -1,4 +1,5 @@
 import { NavBarGeneral } from "../navBar/navBarInicio";
+import Aelement from "./aElement";
 
 const Portafolio = () => {
   return (
@@ -22,18 +23,7 @@ const Portafolio = () => {
           <strong>Tema</strong> <strong>Fecha de asignacion</strong>{" "}
           <strong>Fecha de entrega</strong> <strong>Enlace al trabajo</strong>{" "}
         </div>
-        <div className="tarea">
-          {" "}
-          <span>Morfologia de la palabra</span> <span>23/01/2022</span>{" "}
-          <span>26/01/2022</span>{" "}
-          <a
-            target="_blank"
-            rel="noreferrer"
-            href="https://docs.google.com/document/d/1ksyk1kSv1yly9BgCaSePeFj1n9_GnFTk/edit?usp=sharing&ouid=113180752528374884050&rtpof=true&sd=true"
-          >
-            Link
-          </a>{" "}
-        </div>
+            <Aelement titulo={"Morfologia de la palabra"} fechaEntrega={"26/1/2022"} fechaAsignacion={"23/1/2022"} href={"https://docs.google.com/document/d/1ksyk1kSv1yly9BgCaSePeFj1n9_GnFTk/edit?usp=sharing&ouid=113180752528374884050&rtpof=true&sd=true"} />
       </div>
     </div>
   );

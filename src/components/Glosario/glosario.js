@@ -20,8 +20,7 @@ const Glosario = () => {
         <ul className="">
           <LiElement
             palabra={"Manuscrito:"}
-            descripcion={
-              "Un manuscrito se trata de un documento que contiene información escrita a mano sobre un soporte flexible y manejable, con materias como la tinta de una pluma, de un bolígrafo o simplemente el grafito de un lápiz.   "
+            descripcion={"Un manuscrito se trata de un documento que contiene información escrita a mano sobre un soporte flexible y manejable, con materias como la tinta de una pluma, de un bolígrafo o simplemente el grafito de un lápiz.   "
             }
           />
 
