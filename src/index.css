@@ -172,5 +172,11 @@ li {
         font-size: 30px;
     }
 
+    .tarea span, .tarea a   {
+        font-size: 14px;
+    }
+    
+    
+
 
 }
