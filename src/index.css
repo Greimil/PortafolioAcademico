@@ -7,7 +7,7 @@
 }
 
 body {
-    background: #ffffff;
+    background: #fefefe;
 }
 
 nav{
@@ -19,6 +19,7 @@ nav{
     justify-content: space-around;
     font-size: 25px;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 h1, h2, h3 {
@@ -162,6 +163,7 @@ li {
 
     nav{
         font-size: 18px;
+        height: 10vh;
     }
 
     h1 {
@@ -176,7 +178,10 @@ li {
         font-size: 14px;
     }
     
-    
+    .Lista{
+        width: 100%;
+    }
+
 
 
 }

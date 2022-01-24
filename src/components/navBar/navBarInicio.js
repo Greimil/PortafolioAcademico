@@ -5,7 +5,7 @@ const NavBarGeneral = (props)=> {
     let {visibilidad} = props
 
     return(
-        <nav className="" >
+        <nav >
             
             <Link to="/">Inicio {visibilidad.inicio? <DoneIcon className="IconDone"  /> : null}</Link> 
             <Link to="/portafolio">Portafolio {visibilidad.portafolio? <DoneIcon className="IconDone"/> : null}</Link> 
