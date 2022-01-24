@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/PortafolioAcademico/static/css/main.c0846a72.css",
-    "main.js": "/PortafolioAcademico/static/js/main.5a05c210.js",
+    "main.css": "/PortafolioAcademico/static/css/main.ce495893.css",
+    "main.js": "/PortafolioAcademico/static/js/main.6a5f5153.js",
     "static/media/diario.jpeg": "/PortafolioAcademico/static/media/diario.c298952bd3edbf10bed6.jpeg",
     "index.html": "/PortafolioAcademico/index.html",
-    "main.c0846a72.css.map": "/PortafolioAcademico/static/css/main.c0846a72.css.map",
-    "main.5a05c210.js.map": "/PortafolioAcademico/static/js/main.5a05c210.js.map"
+    "main.ce495893.css.map": "/PortafolioAcademico/static/css/main.ce495893.css.map",
+    "main.6a5f5153.js.map": "/PortafolioAcademico/static/js/main.6a5f5153.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0846a72.css",
-    "static/js/main.5a05c210.js"
+    "static/css/main.ce495893.css",
+    "static/js/main.6a5f5153.js"
   ]
 }
